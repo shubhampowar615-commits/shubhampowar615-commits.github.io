@@ -6,22 +6,4 @@
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
     </url>
-    <url>
-        <loc>https://shubhampowar615-commits.github.io/#about</loc>
-        <lastmod>2026-06-17</lastmod>
-        <changefreq>monthly</changefreq>
-        <priority>0.8</priority>
-    </url>
-    <url>
-        <loc>https://shubhampowar615-commits.github.io/#education</loc>
-        <lastmod>2026-06-17</lastmod>
-        <changefreq>monthly</changefreq>
-        <priority>0.8</priority>
-    </url>
-    <url>
-        <loc>https://shubhampowar615-commits.github.io/#contact</loc>
-        <lastmod>2026-06-17</lastmod>
-        <changefreq>monthly</changefreq>
-        <priority>0.8</priority>
-    </url>
 </urlset>
